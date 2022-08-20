@@ -10,14 +10,14 @@
 3. Blockchain in space
 
 ## Challenges
-1. Centralized databases are faster, more power-efficient.
+1. Dentralized databases are much slower and less power-efficient.
 2. **Scalability** of decentralized databases seems to be a perpetual issue.
 3. Decentralized currency seems to be the only application of the blockchain.
 4. 投机>投资>使用.
 
 ## Evolution of The Web
-1.0 static, read only, like reading magazines, but on a screen 
-2.0 read-and-write, interactive, rely on user-generated contents (this era)
+1.0 static, read only. Like reading magazines but on a screen.
+2.0 read-and-write, interactive, rely on user-generated contents (the age we live in, as of 2022)
 3.0 decentralized, users are owners
 
 ## Blockchain
@@ -47,23 +47,27 @@
 - If I change the most recent block -> the nonce you calculated is different from others -> majority rejects you
 
 ## Web 3.0 and Tokenization
-- digitized ownership of properties, not just houses, cars, but also data, attention, computing power
-- exchange through token swaps -> intermediaries eliminated -> efficiency
+- Digitized ownership of properties, not just houses, cars, but also **data, attention, computing power**
+- Exchange through token swaps -> intermediaries eliminated -> efficiency
 - Network runs on user-contributed computing power. Users get tokens. 
-- When users perform actions, they incentivize other users by paying tokens.
+- When users perform actions (requires help from others), they incentivize other users by paying tokens.
 
 ### Fungibility and NFTs
 - Fungible -> something thats equal to one of itself. Your dollar bill equals to my dollar bill.
 - NFTs, non-fungible. Your house is not the same as my house. Each token represents sth different. 
 
 ## General Comments
-The Internet "of the people, by the people, and for the people" is an unrealistic catchphrase. As long as governments and central banks exist, they would never allow a financial system that operates independently from the current one. Taking crypto as an example: it has lost the anonymity which crypto-enthusiasts fervently touted. (major crypto-trading websites now require identity verification before one can buy and sell coins). 
-Moreover, notice how web3 startups sell their ideas by portraying web 2.0 tech giants as the bad guys, and claim to "give data and freedom back to THE PEOPLE". However, eventually someone has to write up the web3 softwares, someone has to set up servers and pay for the bandwidths. A profit-seeking third party will always be involved; it's just a matter of who. 
+The Internet "of the people, by the people, and for the people" seems to be an unrealistic catchphrase. As long as governments and central banks exist, they would never allow a financial system that operates independently from the current one. Taking crypto as an example: it has lost the anonymity which crypto-enthusiasts fervently touted as major crypto-trading websites now require identity verification before one can buy and sell coins. 
+
+Moreover, notice how web3 startups sell their ideas by portraying web 2.0 tech giants as the bad guys, and claim to "give data and freedom back to THE PEOPLE". However, eventually someone has to write up the web3 softwares, someone has to set up servers and pay for the bandwidths. A profit-seeking third party will always be involved; it's just a matter of who. Plus, the fact that VCs are still pumping millions into web3 shows that they smell profits. 
 This is also where the opportunities lie, whoever gets to build the infrastructure on which web3 runs will become the next generation of tech giants, until being taken over by web 4.0 and 5.0. 
+
 Web 3.0 may not be a leveled playing field considering the web 2 giants have already hoarded a ginormous amount of data without paying a dime, much like how Western countries completed their initial capital accumulation process through colonization and expropriation. Based on the fundamental principle of exchanging data for tokens, web2 giants will still own a large stake in the new Internet and thus creating a monopoly or oligopoly market structure.
 
-communism and 
-The logic of capitalism remains
+People say data is the new oil, in a sense that it has become one of the most fundamental resource that fuels the growth of the capitalist global economy. Letting the people own means of production is the key pre-requisite for socialism, but the current owners won't just give data back for free. The transition from web2 to web3 is very much like the progression of society from feudalism to capitalism: the feudal lords like Google control everything (including your freedom) by force but the capitalists (the next generation of web3 giants) put price tags on everything and appropriate using more subtle methods. The capitalist stage cannot be bypassed, but we should keep in mind that the socialist stage should come after that. (we know what the final goal is)
+
+To sum up, web3 is good tech and I see considerable profits in it. However, a more realistic model would be an Internet that's directly built and supervised by the government, thus weakening and hopefully eliminating the influence that tech monopolies exert on our society. This model seems only applicable to China.
+
 
 ## Useful Links
 https://andersbrownworth.com/blockchain/hash
@@ -75,9 +79,3 @@ https://web3isgoinggreat.com/
 https://www.gemini.com/cryptopedia/the-dao-hack-makerdao#section-the-dao-hack-remedy-forks-ethereum
 
 https://www.stephendiehl.com/blog/web3-bullshit.html
-
-共产主义理想 - 生产资料公有化？ not really 
-
-digital assets are not the entirety of someone’s assets?
-
-Is data a means of production?  
