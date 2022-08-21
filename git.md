@@ -21,3 +21,9 @@ Use `git restore --staged [file_name]` to unstage.
 - `git diff [source_branch] [target_branch]` Note that all comparisons and merging take place between `HEAD` (commited changes)
 - `fast-forward` happens when one branch is directly ahead of another. E.g. branch `master` is on commit3 and branch `hotfix` is on commit 4. To merge `hotfix` into `master`, we can just move the `HEAD` pointer of `master` forward.
 - After conflict resolution, do `git add [file_name]` to mark completion of merge.
+
+## Amend
+- modify the most recent commit.
+- `git commit --amend` without any files staged would only modify the commit message.
+
+`git log` shows the entire `HEAD` tree.
