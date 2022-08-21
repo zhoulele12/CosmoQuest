@@ -19,3 +19,5 @@ Use `git restore --staged [file_name]` to unstage.
 ## Merging
 - `git merge [branch_name]` merges a branch into your current branch. 
 - `git diff [source_branch] [target_branch]` Note that all comparisons and merging take place between `HEAD` (commited changes)
+
+Conflict 2
