@@ -19,3 +19,6 @@ Use `git restore --staged [file_name]` to unstage.
 ## Merging
 - `git merge [branch_name]` merges a branch into your current branch. 
 - `git diff [source_branch] [target_branch]` Note that all comparisons and merging take place between `HEAD` (commited changes)
+- `fast-forward` happens when one branch is directly ahead of another. E.g. branch `master` is on commit3 and branch `hotfix` is on commit 4. To merge `hotfix` into `master`, we can just move the `HEAD` pointer of `master` forward.
+
+Conflict 1
