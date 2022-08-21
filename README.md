@@ -10,11 +10,15 @@
 **Available topics**\
 Web 3.0\
 Introductory Psychology\
-Bicameral Mentality and conciousness
+
 
 **To-be-studied**\
 Finance\
-Brain Computer Interface
+Brain Computer Interface\
+Bicameral Mentality and conciousness\
+历史周期律\
+宣传工作\
+Game Development
 
 
 ![Tianwen-1](util/TW-1.jpeg)
