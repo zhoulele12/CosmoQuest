@@ -15,3 +15,6 @@ Use `git restore --staged [filename]` to unstage.
 - `git branch [branch name]`
 - `git checkout [branch name]`
 - `git push --set_upstream origin [branch name]` connects a local branch to a remote branch
+
+## Merging
+- `git merge [branch name]` merges a branch into your current branch.
