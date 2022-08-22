@@ -9,7 +9,7 @@
 
 **Available topics**\
 Web 3.0\
-Introductory Psychology\
+Introductory Psychology
 
 
 **To-be-studied**\

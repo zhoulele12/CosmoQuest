@@ -23,9 +23,18 @@ Use `git restore --staged [file_name]` to unstage.
 - After conflict resolution, do `git add [file_name]` to mark completion of merge.
 
 ## Amend
-- modify the most recent commit.
+- Modify the most recent commit.
 - `git commit --amend` without any files staged would only modify the commit message.
 - `git commit --amend --no-edit` combines staged file with last commit without chaning the commit message.
+
+## Rebase
+- Change the base of a branch from one commit to another
+- The purpose is to create a linear project history
+- `git rebase master` rebases the current branch to the `HEAD` of `master`
+
+## Stash
+- saves uncommitted changes in your working dir so that you can quickly switch task
+- `git stash` to save, `git stash pop` to reapply changes
 
 `git log` shows the entire `HEAD` tree.
 `git diff --cached` shows diff of staged files
