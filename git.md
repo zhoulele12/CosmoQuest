@@ -36,4 +36,3 @@ Use `git restore --staged [file_name]` to unstage.
 ## Stash
 - saves uncommitted changes in your working dir so that you can quickly switch task
 - `git stash` to save, `git stash pop` to reapply changes
-
