@@ -9,6 +9,7 @@
 
 **Available topics**\
 Web 3.0\
+Git\
 Introductory Psychology
 
 
