@@ -9,7 +9,7 @@ Use `git restore --staged [file_name]` to unstage.
 3. `Head` - latest commit
 
 ## Remote - github
-- To connect a local to a remote: `git add remote origin git@github.com:zhoulele12/[repo_name].git`. `origin` here is an alias for the remote dir.
+- To connect a local to a remote: `git remote add origin git@github.com:zhoulele12/[repo_name].git`. `origin` here is an alias for the remote dir.
 - `git push origin [branch_name]`
 
 ## Branching
