@@ -14,13 +14,13 @@ Introductory Psychology
 
 
 **To-be-studied**\
+Game Development and 3D rendering\
+Bicameral Mentality and Conciousness\
 Finance\
-Bicameral Mentality and conciousness\
 Brain Computer Interface\
-Game Development\
 Neurolinguistics\
-历史周期律\
-宣传工作
+宣传工作\
+历史周期律
 
 
 ![Tianwen-1](util/TW-1.jpeg)
