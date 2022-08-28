@@ -10,7 +10,8 @@
 **Available topics**\
 Web 3.0\
 Git\
-Introductory Psychology
+Introductory Psychology\
+3D Printing
 
 
 **To-be-studied**\

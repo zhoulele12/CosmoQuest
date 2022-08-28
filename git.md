@@ -26,7 +26,7 @@ Use `git restore --staged [file_name]` to unstage.
 ## Amend
 - Modify the most recent commit.
 - `git commit --amend` without any files staged would only modify the commit message.
-- `git commit --amend --no-edit` combines staged file with last commit without chaning the commit message.
+- `git commit --amend --no-edit` combines staged file with last commit without changing the commit message.
 
 ## Rebase
 - Change the base of a branch from one commit to another
