@@ -11,7 +11,8 @@
 Web 3.0\
 Git\
 Introductory Psychology\
-3D Printing
+3D Printing\
+Verilog
 
 
 **To-be-studied**\
