@@ -11,6 +11,7 @@ Use `git restore --staged [file_name]` to unstage.
 ## Remote - github
 - To connect a local to a remote: `git remote add origin git@github.com:zhoulele12/[repo_name].git`. `origin` here is an alias for the remote dir.
 - `git push origin [branch_name]`
+- Use sth other than `origin` to differentiate between remotes.
 
 ## Branching
 - `git branch [branch_name]`
@@ -34,5 +35,5 @@ Use `git restore --staged [file_name]` to unstage.
 - `git rebase master` rebases the current branch to the `HEAD` of `master`
 
 ## Stash
-- saves uncommitted changes in your working dir so that you can quickly switch task
+- Saves uncommitted changes in your working dir so that you can quickly switch task
 - `git stash` to save, `git stash pop` to reapply changes
