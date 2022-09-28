@@ -11,6 +11,7 @@ within every block, code (including delay) is processed sequentially.
 - datatypes include wires, registers,etc.
 - compile all files together eliminates the need to import in each module.
 - `iverilog [-Wimplicit] -o output_name.vvp file1.v file2.v file2_tb.v`
+- `iverilog [-Wimplicit] -o output_name.vvp -c filelist.txt`
 - use `$dumpfile("filename.vcd")` and `$dumpvars(0,current_module_name)`. 0 means all vars. 
 - when declaring `input`, `output`, `wire`, it's very important to declare the bits too. e.g. `reg[4:0]`
 - array of registers `reg[4:0] array[0:3]` -> an 4-element array of 5-bit registers
